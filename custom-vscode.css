@@ -253,7 +253,7 @@
     flex-direction: column !important;
     display: flex !important;
     justify-content: space-between !important;
-    height: calc(100% - var(--spacing-medium)) !important;
+    height: 100% !important;
 }
 
 .interactive-session .chat-welcome-view-container {
@@ -265,7 +265,7 @@
 }
 
 .interactive-session .interactive-input-part {
-    padding: 0px var(--spacing-small) !important;
+    padding: 0px !important;
     margin: 0px !important;
 }
 
@@ -341,7 +341,7 @@
 
 /* Panel and Terminal */
 .monaco-pane-view .pane {
-    height: calc(100% - 17px) !important;
+    height: calc(100% - 13px) !important;
 }
 
 .scm-view .scm-editor>.scm-editor-container{
