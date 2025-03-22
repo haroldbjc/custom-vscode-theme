@@ -240,6 +240,14 @@
     display: block;
 }
 
+.scm-view .scm-editor-container .mtk1 {
+    font-family: var(--main-font-family) !important;
+}
+
+#workbench\.views\.service\.panel\.eccc6d37-78f6-4801-a6ed-6cea13c37899 > div > div > div.monaco-scrollable-element > div.split-view-container > div > div > div.pane-body > div.interactive-session > div.interactive-input-part > div.interactive-input-and-side-toolbar > div > div.chat-editor-container > div > div > div > div.monaco-scrollable-element.editor-scrollable.vs-dark > div.lines-content.monaco-editor-background > div.view-lines.monaco-mouse-cursor-text {
+    font-family: var(--main-font-family) !important;
+}
+
 /* ===== INTERACTIVE SESSION ===== */
 .interactive-session {
     flex-direction: column !important;
